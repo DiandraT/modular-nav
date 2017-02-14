@@ -27,7 +27,7 @@ body {
 }
 
 h1 {
-  text-align: center;
+  text-align: left;
 }
 
 nav {
@@ -40,6 +40,7 @@ li {
 }
 
 a {
+  text-align: center;
   text-decoration: none;
   color: #0074d9;
 }
